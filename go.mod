@@ -1,4 +1,4 @@
-module github.com/polygon-io/nanovgo
+module github.com/massive-com/nanovgo
 
 go 1.16
 

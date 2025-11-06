@@ -8,9 +8,9 @@ import (
 
 	"github.com/goxjs/gl"
 	"github.com/goxjs/glfw"
-	"github.com/polygon-io/nanovgo"
-	"github.com/polygon-io/nanovgo/perfgraph"
-	"github.com/polygon-io/nanovgo/sample/demo"
+	"github.com/massive-com/nanovgo"
+	"github.com/massive-com/nanovgo/perfgraph"
+	"github.com/massive-com/nanovgo/sample/demo"
 )
 
 var blowup bool

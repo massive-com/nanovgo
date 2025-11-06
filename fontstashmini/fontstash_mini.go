@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 	"math"
 
-	"github.com/polygon-io/nanovgo/fontstashmini/truetype"
+	"github.com/massive-com/nanovgo/fontstashmini/truetype"
 )
 
 const (
